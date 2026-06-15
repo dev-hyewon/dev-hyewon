@@ -1,22 +1,74 @@
-### 안녕하세요. 👋
-개발자 이혜원입니다.
+> [!NOTE]
+> 📅 **Last Updated: 2026년 6월 15일**  
+> 🚀 백엔드 엔지니어 및 AI 시스템 엔지니어 포지션으로서 프로필을 새롭게 단장하고 있습니다.  
+> 현재 README 파일은 미완성된 상태이며 지속적으로 업데이트될 예정입니다!
 
-### Web-portfolio
-GCP를 활용한 React 프로젝트로 웹 포트폴리오를 만들었습니다.  
-저의 이야기를 확인해보세요!
-[바로가기](https://hyewon-portfolio-2023.firebaseapp.com/)
+<br/><br/>
 
-<!--
-**dev-hyewon/dev-hyewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 AI 기술을 서비스로 실현하는 백엔드 엔지니어 이혜원입니다.
 
-Here are some ideas to get you started:
+> 💡 **4년 7개월 차 백엔드 엔지니어**이며 현재는 백엔드 기본기를 바탕으로  
+> **LLM 연동 시스템 설계, AI 인프라 구축, 국가 과제 및 AI 서비스 상용화**에 깊은 관심을 두고 역량을 확장하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+## 🚀 About Me
+- 💼 **Experience**: 2021. 10 ~ 현재 (2026년 6월 기준 4년 7개월 차)
+- 🎯 **Target Position**: Backend Engineer (Java / Spring Boot / Node.js) & AI System Engineer
+- 🛠️ **Core Strengths**: 
+  - **AI 기반 백엔드 아키텍처**: LLM API(Gemini, OpenAI 등) 연동 비즈니스 로직 및 AI 파이프라인 설계
+  - **인프라 및 배포**: Kubernetes와 Jenkins를 활용한 서비스 배포 및 AI 모델 서빙 환경 최적화
+
+<br/><br/>
+
+## 💻 Key Projects & Core Experience
+
+### 🌐 AI 서비스 상용화 및 대기업 프로젝트 (2025)
+- **실시간 대시보드 데이터를 LLM 컨텍스트로 변환**
+  - 대시보드 내 실시간 데이터를 분석 및 컨텍스트화하여 사용자 요구사항에 맞게 답변하는 **Gemini API 기반 대화형 채팅 시스템** 개발 담당.
+  - 실제 비즈니스 데이터와 LLM을 연동하는 백엔드 파이프라인 설계 및 대화형 인터페이스 최적화 수행.
+
+### 🏛️ 국책 과제(국가 사업) 아키텍처 설계 및 인프라 빌드업 (2026 ~ 현재)
+- **AI 관련 국가 과제 기술 제안서 작성 및 기획 참여** (과제 최종 선정).
+- **고성능 AI 인프라 아키텍처 설계 및 검토**
+  - 인공지능 모델 서빙 인프라 고도화를 위해 **DGX 및 Spark 클러스터 이중화, 네트워크 스위치 및 미디어 서버 배치**를 포함한 고가용성(HA) 인프라 아키텍처 초안 설계.
+  - 실무 담당자로서 벤더사 기술 조율(하드웨어 견적 및 스펙 세부 검토) 수행 중.
+
+<br/><br/>
+
+## 🛠️ Tech Stacks
+
+### ☕ Backend & Core
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openapi&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+> **Portable Environment**: 개발 도구를 Portable하게 디렉토리 단위로 관리하며, OS 환경변수 제어를 통해 복수 버전의 독립적인 동시 실행 환경을 구축하고 트러블슈팅할 수 있습니다.
+
+### 🗄️ Database & Modeling
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/ERwin%20(Data%20Modeling)-4479A1?style=for-the-badge&logo=databricks&logoColor=white">
+
+> 백엔드 중심 개발자로서 서비스 요구사항에 최적화된 **RDBMS/NoSQL 설계 및 ERD 모델링 역량**을 보유하고 있습니다.
+
+### ☁️ DevOps & Infrastructure
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+
+### 🖥️ Environment & OS
+<img src="https://img.shields.io/badge/Rocky%20Linux%209.5-11B48A?style=for-the-badge&logo=rockylinux&logoColor=white"> <img src="https://img.shields.io/badge/CentOS%208-262577?style=for-the-badge&logo=centos&logoColor=white"> <img src="https://img.shields.io/badge/Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white">
+
+### 👥 Frontend & Tools
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+
+<br/><br/>
+
+## 📜 Certifications & Continuous Learning
+
+<img src="https://img.shields.io/badge/정보처리기사-2023.09 취득-326CE5?style=for-the-badge&logo=qiskit&logoColor=white"> <img src="https://img.shields.io/badge/CKA%20(Kubernetes)-🔜%20준비%20중-EAB308?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/SQLD%20(SQL%20개발자)-🔜%20준비%20중-EAB308?style=for-the-badge&logo=databricks&logoColor=white">
+
+> 실무 역량 증명과 백엔드·인프라 아키텍처의 이론적 깊이를 더하기 위해 지속적으로 학습하고 있습니다.
+
+<br/><br/>
+
+## 🎓 Academic Background
+
+- **서울여자대학교 (Seoul Women's University)**
+  - **주전공**: [디지털미디어전공](http://dm.swu.ac.kr/%eb%94%94%ec%a7%80%ed%84%b8%eb%af%b8%eb%94%94%ec%96%b4%ed%95%99%ea%b3%bc/%ed%95%99%ea%b3%bc%ec%86%8c%ea%b0%9c/) (Major in Digital Media, B.S. in Engineering)
+  - **복수전공**: [정보보호전공](http://security.swu.ac.kr/sub.html?page=introduce_division) (Major in Information Security, B.S. in Engineering)
+  - **부전공**: [소프트웨어융합전공](http://sw.swu.ac.kr/%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4%ec%9c%b5%ed%95%a9%ed%95%99%ea%b3%bc/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C/) (Minor in Software Fusion)
