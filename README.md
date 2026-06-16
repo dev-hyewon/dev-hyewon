@@ -1,5 +1,5 @@
 > [!NOTE]
-> 📅 **Last Updated: 2026년 6월 15일**  
+> 📅 **Last Updated: 2026년 6월 16일**  
 > 🚀 백엔드 엔지니어 및 AI 시스템 엔지니어 포지션으로서 프로필을 새롭게 단장하고 있습니다.  
 > 현재 README 파일은 미완성된 상태이며 지속적으로 업데이트될 예정입니다!
 
@@ -39,95 +39,47 @@
 ## 🛠️ Tech Stacks
 
 ### ☕ Backend & Core
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 
 > **Portable Environment**: 개발 도구를 Portable하게 디렉토리 단위로 관리하며, OS 환경변수 제어를 통해 복수 버전의 독립적인 동시 실행 환경을 구축하고 트러블슈팅할 수 있습니다.
 
 ### 🗄️ Database & Modeling
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/ERwin%20(Data%20Modeling)-4479A1?style=for-the-badge&logo=databricks&logoColor=white">
-</a>
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/ERwin%20(Data%20Modeling)-4479A1?style=for-the-badge&logo=databricks&logoColor=white"></a>
 
 > 백엔드 중심 개발자로서 서비스 요구사항에 최적화된 **RDBMS/NoSQL 설계 및 ERD 모델링 역량**을 보유하고 있습니다.
 
 ### ☁️ DevOps & Infrastructure
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-</a>
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
 
 ### 🖥️ Environment & OS
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Rocky%20Linux%209.5-11B48A?style=for-the-badge&logo=rockylinux&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/CentOS%208-262577?style=for-the-badge&logo=centos&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white">
-</a>
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Rocky%20Linux%209.5-11B48A?style=for-the-badge&logo=rockylinux&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/CentOS%208-262577?style=for-the-badge&logo=centos&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white"></a>
 
 ### 👥 Frontend & Tools
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-</a>
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></a>
 
 <br/><br/>
 
 ## 📜 Certifications & Continuous Learning
 
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/정보처리기사-2023.09 취득-326CE5?style=for-the-badge&logo=qiskit&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/CKA%20(Kubernetes)-🔜%20준비%20중-EAB308?style=for-the-badge&logo=kubernetes&logoColor=white">
-</a>
-<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/SQLD%20(SQL%20개발자)-🔜%20준비%20중-EAB308?style=for-the-badge&logo=databricks&logoColor=white">
-</a>
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/정보처리기사-2023.09 취득-326CE5?style=for-the-badge&logo=qiskit&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/CKA%20(Kubernetes)-🔜%20준비%20중-EAB308?style=for-the-badge&logo=kubernetes&logoColor=white"></a>&nbsp;
+<a href="#" onclick="return false;" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/SQLD%20(SQL%20개발자)-🔜%20준비%20중-EAB308?style=for-the-badge&logo=databricks&logoColor=white"></a>
 
 > 실무 역량 증명과 백엔드·인프라 아키텍처의 이론적 깊이를 더하기 위해 지속적으로 학습하고 있습니다.
 
