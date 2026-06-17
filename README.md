@@ -58,6 +58,8 @@
 > 백엔드 중심 개발자로서 서비스 요구사항에 최적화된 **RDBMS/NoSQL 설계 및 ERD 모델링 역량**을 보유하고 있습니다.
 
 ### ☁️ DevOps & Infrastructure
+<a href="#%EF%B8%8F-devops--infrastructure" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"></a>&nbsp;
+<a href="#%EF%B8%8F-devops--infrastructure" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"></a>&nbsp;
 <a href="#%EF%B8%8F-devops--infrastructure" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>&nbsp;
 <a href="#%EF%B8%8F-devops--infrastructure" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>&nbsp;
 <a href="#%EF%B8%8F-devops--infrastructure" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"></a>&nbsp;
@@ -71,7 +73,14 @@
 ### 👥 Frontend & Tools
 <a href="#-frontend--tools" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>&nbsp;
 <a href="#-frontend--tools" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>&nbsp;
-<a href="#-frontend--tools" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></a>
+
+### 🤝 Collaboration & Productivity
+<a href="#-version-control--collaboration" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>&nbsp;
+<a href="#-version-control--collaboration" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
+<a href="#-version-control--collaboration" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>&nbsp;
+<a href="#-version-control--collaboration" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"></a>&nbsp;
+<a href="#-version-control--collaboration" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></a>&nbsp;
+<a href="#-version-control--collaboration" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white"></a>
 
 <br/><br/>
 
