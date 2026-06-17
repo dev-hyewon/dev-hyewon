@@ -1,7 +1,7 @@
 > [!NOTE]
-> 📅 **Last Updated: 2026년 6월 16일**  
+> 📅 **Last Updated: 2026년 6월 17일**  
 > 🚀 백엔드 엔지니어 및 AI 시스템 엔지니어 포지션으로서 프로필을 새롭게 단장하고 있습니다.  
-> 현재 README 파일은 미완성된 상태이며 지속적으로 업데이트될 예정입니다!
+> 현재 README 파일은 지속적으로 업데이트될 예정입니다!
 
 <br/><br/>
 
@@ -13,7 +13,7 @@
 <br><br>
 
 ## 🚀 About Me
-- 💼 **Experience**: 2021. 10 ~ 현재 (2026년 6월 기준 4년 7개월 차)
+- 💼 **Experience**: 2021. 10 ~ 현재 (재직중)
 - 🎯 **Target Position**: Backend Engineer (Java / Spring Boot / Node.js) & AI System Engineer
 - 🛠️ **Core Strengths**: 
   - **AI 기반 백엔드 아키텍처**: LLM API(Gemini, OpenAI 등) 연동 비즈니스 로직 및 AI 파이프라인 설계
