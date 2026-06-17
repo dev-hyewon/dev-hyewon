@@ -77,9 +77,9 @@
 
 ## 📜 Certifications & Continuous Learning
 
-<a href="#-academic-background" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/정보처리기사-2023.09 취득-326CE5?style=for-the-badge&logo=qiskit&logoColor=white"></a>&nbsp;
-<a href="#-academic-background" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/CKA%20(Kubernetes)-🔜%20준비%20중-EAB308?style=for-the-badge&logo=kubernetes&logoColor=white"></a>&nbsp;
-<a href="#-academic-background" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/SQLD%20(SQL%20개발자)-🔜%20준비%20중-EAB308?style=for-the-badge&logo=databricks&logoColor=white"></a>
+<a href="#-certifications--continuous-learning" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/정보처리기사-2023.09 취득-326CE5?style=for-the-badge&logo=qiskit&logoColor=white"></a>&nbsp;
+<a href="#-certifications--continuous-learning" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/CKA%20(Kubernetes)-🔜%20준비%20중-EAB308?style=for-the-badge&logo=kubernetes&logoColor=white"></a>&nbsp;
+<a href="#-certifications--continuous-learning" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/SQLD%20(SQL%20개발자)-🔜%20준비%20중-EAB308?style=for-the-badge&logo=databricks&logoColor=white"></a>
 
 > **💡 Certification Plans**
 > * 🗓️ **SQLD (SQL 개발자):** 2026년 8월 22일 시험 응시 예정 (9월 11일 합격 발표)
