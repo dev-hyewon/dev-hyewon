@@ -82,7 +82,7 @@
 <a href="#-academic-background" style="pointer-events: none; cursor: default;"><img src="https://img.shields.io/badge/SQLD%20(SQL%20개발자)-🔜%20준비%20중-EAB308?style=for-the-badge&logo=databricks&logoColor=white"></a>
 
 > **💡 Certification Plans**
-> * 🗓️ **SQLD (SQL 개발자):** 2026년 8월 22일 시험 응시 예정 (9월 18일 합격 발표)
+> * 🗓️ **SQLD (SQL 개발자):** 2026년 8월 22일 시험 응시 예정 (9월 11일 합격 발표)
 > * 🗓️ **CKA (Certified Kubernetes Administrator):** 2026년 12월 9일 이내 응시 완료 예정
 
 <br/><br/>
